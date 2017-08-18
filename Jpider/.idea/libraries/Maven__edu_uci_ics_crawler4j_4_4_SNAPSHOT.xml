@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.uci.ics:crawler4j:4.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/edu/uci/ics/crawler4j/4.4-SNAPSHOT/crawler4j-4.4-20170330.142655-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/edu/uci/ics/crawler4j/4.4-SNAPSHOT/crawler4j-4.4-20170330.142655-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/edu/uci/ics/crawler4j/4.4-SNAPSHOT/crawler4j-4.4-20170330.142655-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
