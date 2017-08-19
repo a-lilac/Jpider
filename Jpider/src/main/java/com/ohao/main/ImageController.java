@@ -18,13 +18,7 @@ import org.slf4j.LoggerFactory;
         private static final Logger logger = LoggerFactory.getLogger(ImageController.class);
 
         public static void main(String[] args) throws Exception {
-//            if (args.length < 3) {
-//                logger.info("Needed parameters: ");
-//                logger.info("\t rootFolder (it will contain intermediate crawl data)");
-//                logger.info("\t numberOfCralwers (number of concurrent threads)");
-//                logger.info("\t storageFolder (a folder for storing downloaded images)");
-//                return;
-//            }
+
 
             String rootFolder ="E:/image/";
             int numberOfCrawlers = 7;
